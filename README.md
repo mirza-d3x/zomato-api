@@ -24,6 +24,18 @@
 - 🕛 Menu item delete
 
 
+### Pricing 🏷️ :
+
+| Per / Month | Per / 6 Months | Per / Year | Life Time |
+|-------------|----------------|------------|-----------|
+| 199.00 ₹    | 1000.00 ₹      | 2000.00 ₹ | 75000.00 ₹ |
+
+
+- <a href="mailto:shajin.sha10@icloud.com">Buy Now 🛒<a/>
+- <a href="mailto:shajin.sha10@icloud.com">Request a Bid 📩<a/>
+- <a href="mailto:shajin.sha10@icloud.com">Request demo 📩<a/>
+
+
 #### ❔ What we offer ?
 - Self hosting (Host API on your server)
 - Free API updates *
