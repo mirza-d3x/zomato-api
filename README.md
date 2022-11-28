@@ -1,4 +1,4 @@
-### Zomato merchant API (unofficial)
+### Zomato merchant API (unofficial) | 2022 - 2023
 
 
 > NOTE: I can't guarantee you will not be blocked by using this method, although it has worked for me.
