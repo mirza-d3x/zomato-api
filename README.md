@@ -55,4 +55,4 @@ This project is not affiliated, associated, authorized, endorsed by, or in any w
 
 
 
-* As long as your subscription continues only. 
+* *As long as your subscription continues only. 
