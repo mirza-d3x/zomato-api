@@ -35,7 +35,6 @@
 - <a href="mailto:shajin.sha10@icloud.com">Request a Bid 📩<a/>
 - <a href="mailto:shajin.sha10@icloud.com">Request demo 📩<a/>
 
-
 #### ❔ What we offer ?
 - Self hosting (Host API on your server)
 - Free API updates *
@@ -52,7 +51,6 @@
 #### Disclaimer
 
 This project is not affiliated, associated, authorized, endorsed by, or in any way officially connected with Zomato or any of its subsidiaries or its affiliates. The official Zomato website can be found at https://zomato.com. "Zomato", "Zomato API", "Zomato *" as well as related names, marks, emblems and images are registered trademarks of their respective owners.
-
 
 
 * *As long as your subscription continues only. 
