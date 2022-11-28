@@ -5,6 +5,37 @@
 
 
 
+#### Features included -: 
+
+
+- ✅ Multiple login
+- ✅ Orders list
+- ✅ Orders list filtering (By status)
+- ✅ Accept  new order 
+- ✅ Mark order ready
+- ✅ Go online &  Offline - status
+- ✅ Item list (Menu)
+- ✅ Item list editing (Menu editing)
+
+
+#### Features coming soon -:
+- 🕛 Mark menu outoff stock
+- 🕛 Menu item add
+- 🕛 Menu item delete
+
+
+#### ❔ What we offer ?
+- Self hosting (Host API on your server)
+- Free API updates *
+
+#### ❔ What we do't guarantee you ?
+- We can't guarantee you about any action from zoamto.
+
+#### ❔What do't we offer ?
+- Price back
+- Non Self hosting (We will not host your API)
+
+
 
 #### Disclaimer
 
